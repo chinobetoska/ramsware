@@ -7,8 +7,8 @@ ESTE CODIGO SE HIZO CON LA FINALIDAD DE SER MATERIAL PARA APRENDIZAJE SOBRE CIBE
 Se deberan instalar las siguientes librerias para el uso correcto del los archivos 
 
 1- Instalar las siguientes librerias  
-    1- cryptography
-    2- os
+1- cryptography
+2- os
  Para seguridad de tus archivos de py3 se debera hacer un entorno especial para las librerias que se usan y no se corrompa las principales, el entorno se hara con los siguintes comandos en linux:
     python3 -m venv "nombre de tu entorno"
     "nombre de tu entorno"/bin/activate
